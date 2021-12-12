@@ -508,6 +508,7 @@ en{
         scn{"Sicilian"}
         sco{"Scots"}
         sd{"Sindhi"}
+        sdi{"Sindhi Devanagari"}
         sdc{"Sassarese Sardinian"}
         sdh{"Southern Kurdish"}
         se{"Northern Sami"}

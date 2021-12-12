@@ -151,7 +151,7 @@ likelySubtags:table(nofallback){
     dgr{"dgr_Latn_CA"}
     dje{"dje_Latn_NE"}
     dnj{"dnj_Latn_CI"}
-    doi{"doi_Arab_IN"}
+    doi{"doi_Deva_IN"}
     dsb{"dsb_Latn_DE"}
     dtm{"dtm_Latn_ML"}
     dtp{"dtp_Latn_MY"}
@@ -558,7 +558,7 @@ likelySubtags:table(nofallback){
     sah{"sah_Cyrl_RU"}
     saq{"saq_Latn_KE"}
     sas{"sas_Latn_ID"}
-    sat{"sat_Latn_IN"}
+    sat{"sat_Olck_IN"}
     saz{"saz_Saur_IN"}
     sbp{"sbp_Latn_TZ"}
     sc{"sc_Latn_IT"}
@@ -570,6 +570,7 @@ likelySubtags:table(nofallback){
     sd_Deva{"sd_Deva_IN"}
     sd_Khoj{"sd_Khoj_IN"}
     sd_Sind{"sd_Sind_IN"}
+    sdi{"sdi_Deva_IN"}
     sdc{"sdc_Latn_IT"}
     sdh{"sdh_Arab_IR"}
     se{"se_Latn_NO"}

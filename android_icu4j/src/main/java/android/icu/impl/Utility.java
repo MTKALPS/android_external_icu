@@ -571,7 +571,8 @@ public final class Utility {
         int node = 0;
         int runLength = 0;
         int i = 2;
-        for (int ai=0; ai<length; ) {
+        int stringLength = s.length();
+        for (int ai=0; ai<length && i<stringLength;) {
             // This part of the loop places the next byte into the local
             // variable 'b' each time through the loop.  It keeps the
             // current character in 'c' and uses the boolean 'nextChar'
