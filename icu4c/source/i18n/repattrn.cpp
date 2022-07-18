@@ -200,7 +200,9 @@ void RegexPattern::zap() {
     fSets8 = NULL;
     delete fGroupMap;
     fGroupMap = NULL;
-    delete fInitialChars;
+    if (fInitialChars != NULL) {
+        delete fInitialChars;
+    }
     fInitialChars = NULL;
     delete fInitialChars8;
     fInitialChars8 = NULL;
